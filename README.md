@@ -10,3 +10,5 @@ EXTRAIR CONTEÚDO DE DOCUMENTOS PDF
 
 [Artigo básico complementar](https://www.javatpoint.com/tika-extracting-pdf-file)
 
+[Indexação de conteúdo PDF no Elasticsearch](https://medium.com/@ffknob/como-ingerir-documentos-pdf-no-elasticsearch-a5756fe5ef93)
+
